@@ -1,2 +1,2 @@
-# seasonal-styles
-An it 121 assignment 
+# Seasonal-Styles
+An IT 121 Assignment
